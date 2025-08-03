@@ -150,10 +150,6 @@ class STConv(nn.Module):
             * **T** (PyTorch FloatTensor) - Sequence of node features.
         """
         T_0 = self._temporal_conv1(X)
-        # T = torch.zeros_like(T_0).to(T_0.device)
-        # for b in range(T_0.size(0)):
-        #     for t in range(T_0.size(1)):
-        #         T[b][t] = self._graph_conv(T_0[b][t], edge_index, edge_weight)
         timesteps = T_0.size(-3); batch_size = T_0.size(0)
         T_0 = T_0.reshape(reduce(mul, T_0.size()[:-2]), *T_0.size()[-2:])
         data = self.__batch_timesteps__(T_0, edge_index,
