@@ -1,11 +1,11 @@
 # Learning Multimodal Embeddings for Traffic Accident Prediction and Causal Estimation
 
 <p align="center">
-<a href="">Project Page</a> |
+<a href="https://ziniuzhang.github.io/mmtrace/">Project Page</a> |
 <a href="https://github.com/ziniuzhang/mmtrace/blob/main/static/MMTraCE_KDD_submission.pdf">Paper</a> |
 <a href="https://huggingface.co/datasets/MichaelZona/MMTraCE">Dataset</a>
 
-- Authors: [Ziniu Zhang](https://ziniuzhang.github.io/), [Minxuan Duan](https://www.minxuanduan.com/), [Haris Koutsopoulos](https://mobility.mit.edu/people/haris-koutsopoulos/) and [Hongyang R. Zhang](https://www.hongyangzhang.com/)
+- Authors: [Ziniu Zhang](https://ziniuzhang.github.io/), [Minxuan Duan](https://www.minxuanduan.com/), [Haris N. Koutsopoulos](https://mobility.mit.edu/people/haris-koutsopoulos/) and [Hongyang R. Zhang](https://www.hongyangzhang.com/)
 
 ## Overview
 
