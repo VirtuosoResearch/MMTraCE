@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://ziniuzhang.github.io/mmtrace/">Project Page</a> |
 <a href="https://github.com/ziniuzhang/mmtrace/blob/main/static/MMTraCE_KDD_submission.pdf">Paper</a> |
-<a href="https://huggingface.co/datasets/MichaelZona/MMTraCE">Dataset</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDP6KQ&faces-redirect=true">Dataset</a>
 
 - Authors: [Ziniu Zhang](https://ziniuzhang.github.io/), [Minxuan Duan](https://www.minxuanduan.com/), [Haris N. Koutsopoulos](https://mobility.mit.edu/people/haris-koutsopoulos/) and [Hongyang R. Zhang](https://www.hongyangzhang.com/)
 
@@ -67,7 +67,7 @@ The dataset should be in the following structure (Use Delaware as an example):
     └── NV.npy
 ```
 
-Our dataset is located in [Huggingface](https://huggingface.co/datasets/MichaelZona/MMTraCE). You can also find it on Harvard datset.
+Our dataset is located in [Huggingface](https://huggingface.co/datasets/MichaelZona/MMTraCE). You can also find it on [Harvard datset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDP6KQ&faces-redirect=true).
 
 ## Usage
 
