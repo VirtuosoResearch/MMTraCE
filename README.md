@@ -9,7 +9,7 @@
 
 ## Overview
 
-This code implements **MMTraCE**, an multimodal learning framework for traffic accident prediction and causal estimation. 
+This code implements **MMTraCE**, a multimodal learning framework for traffic accident prediction and causal estimation. 
 
 We construct a large-scale dataset across $6$ U.S. states, comprising $9$ million traffic accident records, $1$ million high-resolution satellite images, and node-level structured features such as weather statistics, traffic volume, and road attributes. Each node in the road network is paired with a satellite image and associated temporal features, enabling localized multimodal learning. 
 
@@ -96,4 +96,4 @@ We also list scripts to generate different node embeddings in `./embeddings`
 
 ---
 
-Feel free to contact [zhang.zini@northeastern.edu](mailto:zhang.zini@northeastern.edu) if you have any questions.
+Feel free to contact us by sending an email to all authors if you have any questions.
