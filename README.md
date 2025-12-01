@@ -67,7 +67,7 @@ The dataset should be in the following structure (Use Delaware as an example):
     └── NV.npy
 ```
 
-Our dataset is located in [Huggingface](https://huggingface.co/datasets/MichaelZona/MMTraCE). You can also find it on [Harvard datset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDP6KQ&faces-redirect=true).
+Our dataset is located in [Harvard datset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDP6KQ&faces-redirect=true). You can also find it on [Huggingface](https://huggingface.co/datasets/MichaelZona/MMTraCE).
 
 ## Usage
 
