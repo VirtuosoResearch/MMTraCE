@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://virtuosoresearch.github.io/#/blogs/blog/MMTraCENote">Project Page</a> |
-<a href="https://github.com/ziniuzhang/mmtrace/blob/main/static/MMTraCE_KDD_submission.pdf">Paper</a> |
+<a href="https://arxiv.org/pdf/2512.02920">Paper</a> |
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDP6KQ&faces-redirect=true">Dataset</a>
 
 - Authors: [Ziniu Zhang](https://ziniuzhang.github.io/), [Minxuan Duan](https://www.minxuanduan.com/), [Haris N. Koutsopoulos](https://mobility.mit.edu/people/haris-koutsopoulos/) and [Hongyang R. Zhang](https://www.hongyangzhang.com/)
@@ -14,6 +14,15 @@ This code implements **MMTraCE**, a multimodal learning framework for traffic ac
 We construct a large-scale dataset across $6$ U.S. states, comprising $9$ million traffic accident records, $1$ million high-resolution satellite images, and node-level structured features such as weather statistics, traffic volume, and road attributes. Each node in the road network is paired with a satellite image and associated temporal features, enabling localized multimodal learning. 
 
 We propose a modeling framework that integrates visual encoders with graph neural network features. We implement three fusion mechanisms: a multilayer perceptron concatenation, a gated fusion network that adaptively balances visual and structural information, and a mixture of experts method to learn the features from different perspectives.
+
+<div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.5rem; margin-bottom: 1.5rem;">
+  <img src="./image_samples/image_sample_MA1.png" style="width:100%; height:auto;" />
+  <img src="./image_samples/image_sample_motorway.png" style="width:100%; height:auto;" />
+  <img src="./image_samples/image_sample_MA0.png" style="width:100%; height:auto;" />
+  <img src="./image_samples/image_sample_NV0.png" style="width:100%; height:auto;" />
+  <img src="./image_samples/image_sample_mix0.png" style="width:100%; height:auto;" />
+  <img src="./image_samples/image_sample_link.png" style="width:100%; height:auto;" />
+</div>
 
 ## Installation
 
