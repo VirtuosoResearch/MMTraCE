@@ -15,14 +15,18 @@ We construct a large-scale dataset across $6$ U.S. states, comprising $9$ millio
 
 We propose a modeling framework that integrates visual encoders with graph neural network features. We implement three fusion mechanisms: a multilayer perceptron concatenation, a gated fusion network that adaptively balances visual and structural information, and a mixture of experts method to learn the features from different perspectives.
 
-<div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.5rem; margin-bottom: 1.5rem;">
-  <img src="./image_samples/image_sample_MA1.png" style="width:100%; height:auto;" />
-  <img src="./image_samples/image_sample_motorway.png" style="width:100%; height:auto;" />
-  <img src="./image_samples/image_sample_MA0.png" style="width:100%; height:auto;" />
-  <img src="./image_samples/image_sample_NV0.png" style="width:100%; height:auto;" />
-  <img src="./image_samples/image_sample_mix0.png" style="width:100%; height:auto;" />
-  <img src="./image_samples/image_sample_link.png" style="width:100%; height:auto;" />
-</div>
+<p align="center">
+  <img src="image_samples/image_sample_MA1.png" width="30%" />
+  <img src="image_samples/image_sample_motorway.png" width="30%" />
+  <img src="image_samples/image_sample_MA0.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="image_samples/image_sample_NV0.png" width="30%" />
+  <img src="image_samples/image_sample_mix0.png" width="30%" />
+  <img src="image_samples/image_sample_link.png" width="30%" />
+</p>
+
 
 ## Installation
 
