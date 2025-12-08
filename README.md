@@ -1,7 +1,7 @@
 # Learning Multimodal Embeddings for Traffic Accident Prediction and Causal Estimation
 
 <p align="center">
-<a href="https://ziniuzhang.github.io/mmtrace/">Project Page</a> |
+<a href="https://virtuosoresearch.github.io/#/blogs/blog/MMTraCENote">Project Page</a> |
 <a href="https://github.com/ziniuzhang/mmtrace/blob/main/static/MMTraCE_KDD_submission.pdf">Paper</a> |
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDP6KQ&faces-redirect=true">Dataset</a>
 
